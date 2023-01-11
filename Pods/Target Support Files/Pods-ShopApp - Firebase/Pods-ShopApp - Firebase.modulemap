@@ -1,0 +1,6 @@
+framework module Pods_ShopApp___Firebase {
+  umbrella header "Pods-ShopApp - Firebase-umbrella.h"
+
+  export *
+  module * { export * }
+}
