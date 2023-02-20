@@ -17,7 +17,7 @@ class LoginController: UIViewController {
     private let signUpButton = CustomButton(title: "Iniciar Sesión", hasBakcground: true, fontSize: .big, texcolor: .white)
     private let newUserButton = CustomButton(title: "Crear cuenta", fontSize: .medium, texcolor: .systemPurple)
     private let forgotPasswordButton = CustomButton(title: "¿Olvidaste tu contraseña?", fontSize: .small, texcolor: .systemGray)
-    private let string = ""
+    private let textLabel = ""
     
     
     override func viewDidLoad() {
