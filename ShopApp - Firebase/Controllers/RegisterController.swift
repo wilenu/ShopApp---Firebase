@@ -16,6 +16,7 @@ class RegisterController: UIViewController {
     private let passwordField = CustomTextField(fieldType: .password)
     private let signUpButton = CustomButton(title: "Crear Cuenta", hasBakcground: true, fontSize: .big, texcolor: .white)
     private let signInButton = CustomButton(title: "Ya tienes una cuenta? Inicia sesión", fontSize: .medium, texcolor: .systemGray)
+    private let textLabel2 = "Cesar"
     
     /*private let termsTextView: UITextView = {
      let tv = UITextView()
